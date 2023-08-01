@@ -3,8 +3,8 @@
 **`Developer/Photographer`**
 
 I'm an IT student at UST third year, and am learning how to make mobile application using 
-dart using flutter framwork with riverpod arceticture, and i learend the past couple of years 
-photogrophy and how to take prfitional landscape photos and edit them using Adobe Lightrom.
+dart using flutter framwork with riverpod architecture, and i learend the past couple of years 
+photoghraphy and how to take prfitional landscape photos and edit them using Adobe Lightrom.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
