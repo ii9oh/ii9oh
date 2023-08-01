@@ -18,6 +18,9 @@ photoghraphy and how to take prfitional landscape photos and edit them using Ado
 <a href="https://www.instagram.com/thesohaib_/">
 <img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+<a href="https://twitter.com/ii9o_h">
+<img height="25" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
 
 ### 🧰 Languages and Tools
 
